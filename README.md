@@ -1,2 +1,3 @@
 # 102-Reading-Notes
-Reading notes
+ - [class 1 notes]
+ - 
