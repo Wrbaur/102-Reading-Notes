@@ -1,3 +1,3 @@
 # 102-Reading-Notes
- - [class 1 notes]
+ - [Class 01 Reading Notes](https://github.com/Wrbaur/102-Reading-Notes/wiki/Class-01-Reading-Notes)
  - 
